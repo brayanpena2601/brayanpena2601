@@ -3,13 +3,13 @@
 ## About me
 
 I am an artificial intelligence technology student at Central Piedmont Community College with a passion for software engineering, machine learning, and solving real-world problems through technology.
-Currently, I am transitioning from a successful healthcare leadership career into software engineering while maintaining a 3.542 GPA and building hands-on technical projects.
+Currently, I am transitioning from a successful healthcare leadership career into software engineering while maintaining a 3.542 GPA and building hands-on technical projects. I enjoy learning new technologies and creating solutions that make a meaninful impact.
 
 ## Education
 
 **Central Piedmont Community College**
 
-Associate in Applied Science (A.A.S.) in Artificial Intellingence Technology
+**Associate in Applied Science (A.A.S.) in Artificial Intellingence Technology**
 
 Expected Graduation: September 2027
 
