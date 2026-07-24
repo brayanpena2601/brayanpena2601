@@ -33,4 +33,4 @@ GPA: 3.542 / 4.0
 ## Connect with me
 Charlotte, North Carolina
 brayanpena2601@gmail.com
-# Thanks for visiting my GitHub! Feel free to explore my projects as I continue building my software engineering portfolio.
+Thanks for visiting my GitHub! Feel free to explore my projects as I continue building my software engineering portfolio.
